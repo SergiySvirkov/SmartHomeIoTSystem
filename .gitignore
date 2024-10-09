@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment variables
+.env
+
+# MacOS
+.DS_Store
+
+# Mobile app
+mobile-app/node_modules/
+mobile-app/build/
+mobile-app/.expo/
+mobile-app/.expo-shared/
